@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24699851412",
+    "project_id": "lux-app-dmc",
+    "storage_bucket": "lux-app-dmc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24699851412:android:2790727c433176414b1a81",
+        "android_client_info": {
+          "package_name": "com.lux.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmXP5YTQaztHowmXcFcVKUwhhWBTu7uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
